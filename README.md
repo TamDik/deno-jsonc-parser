@@ -14,6 +14,6 @@ const text = `{
     */
 
     "key": "value"
-}`
+}`;
 console.log(JSONC.parse(text)); // { key: "value" }
 ```
